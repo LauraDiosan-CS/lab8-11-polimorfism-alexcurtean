@@ -1,0 +1,3 @@
+20 "paracetamol" 0 20 "labormed"
+21 "dicarbocalm" 0 35 "asdfg"
+22 "tantum" 1 55 "asdfg"

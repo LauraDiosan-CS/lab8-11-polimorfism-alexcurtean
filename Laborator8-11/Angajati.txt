@@ -1,0 +1,4 @@
+1 Maria maria@yahoo.com 5
+2 Andrei andrei3@gmail.com 3
+3 John johnjohn@gmail.com 6
+4 Alina blabla@emial.com 5
